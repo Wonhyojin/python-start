@@ -10,3 +10,4 @@ else:
 
 print("Hello!!")
 print("Hello!!")
+print(number*4)
